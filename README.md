@@ -1,22 +1,21 @@
-![Design Patterns For Humans](https://cloud.githubusercontent.com/assets/11269635/23065273/1b7e5938-f515-11e6-8dd3-d0d58de6bb9a.png)
+![İnsanlar için Tasarım Desenleri](https://cloud.githubusercontent.com/assets/11269635/23065273/1b7e5938-f515-11e6-8dd3-d0d58de6bb9a.png)
 
 ***
 
 <p align="center">
-🎉 Ultra-simplified explanation to design patterns! 🎉
+🎉 Basit açıklamalı tasarım desenleri! 🎉
 </p>
 <p align="center">
-A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
+Burada tasarım desenlerini aklınızda kalması için (ve belki de benim) <i>en basit</i> şekilde açıklamaya çalışıyorum.
 </p>
 
+***
+
+<p align="center"><b> Bu kılavuzu beğendin ve benzer içerikten daha fazlasını mı istiyorsun? </b><br>Abone olmak için <a href="http://hugobots.com">Hugobots</a> ya da <a href="http://twitter.com/kamranahmedse">twitter'dan takip edin</a>!</p>
 
 ***
 
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>Subscribe for the launch of <a href="http://hugobots.com">Hugobots</a> or <a href="http://twitter.com/kamranahmedse">follow me on twitter</a>!</p>
-
-***
-
-🚀 Introduction
+🚀 Giriş
 =================
 
 Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
@@ -27,7 +26,7 @@ Wikipedia describes them as
 
 > In software engineering, a software design pattern is a general reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations.
 
-⚠️ Be Careful
+⚠️ Dikkat
 -----------------
 - Design patterns are not a silver bullet to all your problems.
 - Do not try to force them; bad things are supposed to happen, if done so. Keep in mind that design patterns are solutions **to** problems, not solutions **finding** problems; so don't overthink.
@@ -35,7 +34,7 @@ Wikipedia describes them as
 
 > Also note that the code samples below are in PHP-7, however this shouldn't stop you because the concepts are same anyways. Plus the **support for other languages is underway**.
 
-Types of Design Patterns
+Tasarım Deseni Tipleri
 -----------------
 
 * [Creational](#creational-design-patterns)
